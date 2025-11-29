@@ -23,25 +23,25 @@ All content is in Markdown only. No spreadsheets or notebooks are required.
 
 The core of the repo consists of **seven standalone papers**, each in its own Markdown file:
 
-1. `paper1-vc-intensity-global-vs-europe.md`  
+1. `vc-intensity-global-vs-europe.md`  
    *Global VC intensity in 2024: the US, China, Japan, Europe and Switzerland compared.*
 
-2. `paper2-swiss-vc-ecosystem-2015-2024.md`  
+2. `swiss-vc-ecosystem-2015-2024.md`  
    *The Swiss VC ecosystem 2015–2024, with a focus on Zurich, Zug and Schwyz.*
 
-3. `paper3-consulting-markets-benchmarks.md`  
+3. `consulting-markets-benchmarks.md`  
    *Management consulting markets, GDP, headcount and firm structure in the G7 + Switzerland.*
 
-4. `paper4-vc-consulting-complementarity.md`  
+4. `vc-consulting-complementarity.md`  
    *How VC and consulting interact: complementarities, substitutability and cross-country patterns.*
 
-5. `paper5-firm-size-distribution-us-china.md`  
+5. `firm-size-distribution-us-china.md`  
    *Micro and small firm structure in the US and China and its implications for B2B startups and consulting.*
 
-6. `paper6-wealth-hnwi-and-private-capital.md`  
+6. `wealth-hnwi-and-private-capital.md`  
    *Millionaires, wealth concentration and the depth of the private-capital ecosystem in major economies.*
 
-7. `paper7-sectoral-composition-europe-switzerland.md`  
+7. `sectoral-composition-europe-switzerland.md`  
    *Sectoral composition of VC in Europe and Switzerland (software, deeptech, biotech, cleantech, AI) and its links to consulting demand.*
 
 Each paper follows a **compact academic structure** (abstract, introduction, data and methods, empirical results, discussion, caveats) and includes multiple tables with macro, VC, consulting and wealth indicators.
@@ -79,3 +79,16 @@ The aim is to offer a **clean analytic skeleton** that can be refined with more 
 ## 4. License
 
 External statistics remain subject to the terms of their original providers and are used here purely for analytical and educational purposes.
+
+---
+
+## 5. Fonti principali
+
+- World Bank, World Development Indicators – GDP e popolazione per Paese (ultimo aggiornamento disponibile).
+- IMF, World Economic Outlook Database – stime macroeconomiche 2023–2024.
+- Dealroom, European Venture Capital reports 2023–2024 – volumi di VC per Paese.
+- KPMG, Venture Pulse 2024 – stime globali di VC.
+- Swiss Venture Capital Report (varie edizioni 2015–2024) – serie storiche e breakdown per la Svizzera.
+- Associazioni nazionali di consulenza (es. BDU Germania, FEACO/rapporti nazionali) – dimensione dei mercati di consulenza.
+- UBS / Credit Suisse, Global Wealth Report 2023–2024 – stime sul numero di milionari per Paese.
+- US Small Business Administration e statistiche cinesi sulle PMI – struttura per dimensione d’impresa.
