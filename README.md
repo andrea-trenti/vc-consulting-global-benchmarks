@@ -78,5 +78,4 @@ The aim is to offer a **clean analytic skeleton** that can be refined with more 
 
 ## 4. License
 
-All original text and constructed tables in this repository are released under the **MIT License** (see `LICENSE`).  
 External statistics remain subject to the terms of their original providers and are used here purely for analytical and educational purposes.
